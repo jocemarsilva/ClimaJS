@@ -78,4 +78,6 @@ const showWeatherData = async (city) => {
   weatherContainer.classList.remove("hide");
 };
 
+searchBtn.addEventListener("click", async (e) => {
+  e.preventDefault();
 
