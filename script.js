@@ -50,3 +50,13 @@ const hideInformation = () => {
 
   suggestionContainer.classList.add("hide");
 };
+
+const showWeatherData = async (city) => {
+  hideInformation();
+
+  const data = await getWeatherData(city);
+
+  if (data.cod === "404") {
+    showErrorMessage();
+    return;
+  }
