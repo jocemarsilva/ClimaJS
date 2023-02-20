@@ -106,3 +106,8 @@ body {
   margin: 0.6rem;
   padding: 0.6rem;
 }
+
+/* Loader */
+#loader i {
+  animation: rotate 1.5s linear infinite;
+}
