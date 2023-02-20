@@ -7,4 +7,5 @@ const searchBtn = document.querySelector("#search");
 
 const cityElement = document.querySelector("#city");
 const tempElement = document.querySelector("#temperature span");
+const descElement = document.querySelector("#description");
 
