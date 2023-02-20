@@ -20,3 +20,8 @@ const loader = document.querySelector("#loader");
 
 const suggestionContainer = document.querySelector("#suggestions");
 const suggestionButtons = document.querySelectorAll("#suggestions button");
+
+// Loader
+const toggleLoader = () => {
+  loader.classList.toggle("hide");
+};
