@@ -11,4 +11,5 @@ const descElement = document.querySelector("#description");
 const weatherIconElement = document.querySelector("#weather-icon");
 const countryElement = document.querySelector("#country");
 const umidityElement = document.querySelector("#umidity span");
+const windElement = document.querySelector("#wind span");
 
