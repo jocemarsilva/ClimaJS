@@ -35,3 +35,6 @@ const getWeatherData = async (city) => {
   const data = await res.json();
 
   toggleLoader();
+
+  return data;
+};
