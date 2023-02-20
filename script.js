@@ -16,3 +16,4 @@ const windElement = document.querySelector("#wind span");
 const weatherContainer = document.querySelector("#weather-data");
 
 const errorMessageContainer = document.querySelector("#error-message");
+const loader = document.querySelector("#loader");
