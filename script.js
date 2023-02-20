@@ -38,3 +38,8 @@ const getWeatherData = async (city) => {
 
   return data;
 };
+
+// Tratamento de erro
+const showErrorMessage = () => {
+  errorMessageContainer.classList.remove("hide");
+};
