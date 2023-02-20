@@ -6,3 +6,5 @@ const cityInput = document.querySelector("#city-input");
 const searchBtn = document.querySelector("#search");
 
 const cityElement = document.querySelector("#city");
+const tempElement = document.querySelector("#temperature span");
+
