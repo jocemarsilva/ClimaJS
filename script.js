@@ -60,3 +60,5 @@ const showWeatherData = async (city) => {
     showErrorMessage();
     return;
   }
+
+  cityElement.innerText = data.name;
