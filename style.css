@@ -78,3 +78,7 @@ body {
 #temperature {
   font-size: 4rem;
 }
+
+#country {
+  height: 15px;
+}
