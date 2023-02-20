@@ -4,7 +4,7 @@
 
 
 
-##  Previsão do Clima.
+##  Previsão do Clima JS.
 
 
  Tenha acesso a informações climáticas a nivel mundial, em tempo real.
@@ -31,7 +31,7 @@
 
 ## 🚀Para ver o clima acesse:
 
-https://jocemarsilva.com.br/previsao-do-clima/
+ https://jocemarsilva.github.io/ClimaJS/
 
 
 
