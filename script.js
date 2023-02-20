@@ -43,3 +43,10 @@ const getWeatherData = async (city) => {
 const showErrorMessage = () => {
   errorMessageContainer.classList.remove("hide");
 };
+
+const hideInformation = () => {
+  errorMessageContainer.classList.add("hide");
+  weatherContainer.classList.add("hide");
+
+  suggestionContainer.classList.add("hide");
+};
