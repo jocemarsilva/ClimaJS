@@ -25,5 +25,9 @@ const suggestionButtons = document.querySelectorAll("#suggestions button");
 const toggleLoader = () => {
   loader.classList.toggle("hide");
 };
+
 const getWeatherData = async (city) => {
   toggleLoader();
+
+  const apiWeatherURL = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}&lang=pt_br`;
+
