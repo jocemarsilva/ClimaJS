@@ -4,3 +4,11 @@
   margin: 0;
   font-family: "Ubuntu", sans-serif;
 }
+
+body {
+  background-color: black;
+  }
+
+.hide {
+  display: none !important;
+}
