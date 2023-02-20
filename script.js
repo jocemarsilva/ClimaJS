@@ -63,3 +63,5 @@ const showWeatherData = async (city) => {
 
   cityElement.innerText = data.name;
   tempElement.innerText = parseInt(data.main.temp);
+  descElement.innerText = data.weather[0].description;
+
