@@ -82,3 +82,5 @@ searchBtn.addEventListener("click", async (e) => {
   e.preventDefault();
 
   const city = cityInput.value;
+  showWeatherData(city);
+});
