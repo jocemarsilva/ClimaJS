@@ -25,3 +25,5 @@ const suggestionButtons = document.querySelectorAll("#suggestions button");
 const toggleLoader = () => {
   loader.classList.toggle("hide");
 };
+const getWeatherData = async (city) => {
+  toggleLoader();
