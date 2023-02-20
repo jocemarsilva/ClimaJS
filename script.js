@@ -4,3 +4,5 @@ const apiUnsplash = "https://source.unsplash.com/1600x900/?";
 
 const cityInput = document.querySelector("#city-input");
 const searchBtn = document.querySelector("#search");
+
+const cityElement = document.querySelector("#city");
