@@ -47,3 +47,15 @@ body {
   cursor: pointer;
   border-radius: 4px;
 }
+
+
+/* Clima */
+#weather-data,
+#error-message,
+#loader,
+#suggestions {
+  border-top: 1px solid #fff;
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  text-align: center;
+}
