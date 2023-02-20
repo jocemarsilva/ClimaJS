@@ -74,3 +74,7 @@ body {
 #weather-data span {
   margin: 0.6rem;
 }
+
+#temperature {
+  font-size: 4rem;
+}
