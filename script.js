@@ -19,3 +19,4 @@ const errorMessageContainer = document.querySelector("#error-message");
 const loader = document.querySelector("#loader");
 
 const suggestionContainer = document.querySelector("#suggestions");
+const suggestionButtons = document.querySelectorAll("#suggestions button");
