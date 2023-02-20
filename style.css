@@ -116,3 +116,10 @@ body {
     transform: rotate(360deg);
   }
 }
+
+/* Sugestões */
+#suggestions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
