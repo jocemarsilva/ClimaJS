@@ -12,7 +12,13 @@
  Tenha acesso a informações climáticas a nivel mundial, em tempo real.
 
 
+## APIS Utilizadas.
 
+API Unsplash - Mostra a imagem de fundo, de maneira aleatória mais próxima da cidade escolhida.
+
+API Rest Countries - Mostra a Bandeira do país. 
+
+API Open Weather - Mostra os dados climáticos:  temperatura - estado do clima -umidade -  velocidade do vento.
 
 
 ## 📚 Funcionalidades
