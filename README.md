@@ -39,7 +39,7 @@ API Open Weather - Mostra os dados climáticos:  temperatura - estado do clima -
 
 ## 🚀Para ver o clima acesse:
 
- https://jocemarsilva.github.io/ClimaJS/
+https://jocemarsilva.com.br/climaJs/
 
 
 
